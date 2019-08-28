@@ -1,4 +1,5 @@
 DROP TABLE IF EXISTS property;
+DROP TABLE IF EXISTS property_april;
 
 CREATE TABLE property(
 	id INT PRIMARY KEY,
